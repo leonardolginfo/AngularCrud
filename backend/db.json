@@ -1,0 +1,18 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Lente 18-55 Fujinon - 3.5 - 5.6",
+            "price": 3550
+        },
+        {
+            "id": 2,
+            "name": "Câmera Fujifilm Xt-1",
+            "price": 4000
+        },
+        {
+            "id": 3,
+            "name": "Hand Grip original Fujinon para Xt-1",
+            "price": 1100
+        },
+    ]
+}
